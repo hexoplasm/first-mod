@@ -1,8 +1,7 @@
 # First Mod
 
-## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+My first mod, that I will be using to learn how to code Java mods. I am following this tutorial by Kaupenjoe, linked here:
+[Modding by Kaupenjoe]("https://www.youtube.com/playlist?list=PLKGarocXCE1H4l8g3c_KoRMsFzBsVjjAx")
 
 ## License
 
